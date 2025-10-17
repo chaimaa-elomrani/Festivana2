@@ -1101,11 +1101,10 @@ footer {
     width: 120px;
   }
 
-  .hero,
-  .events-hero,
+  
+ 
   .blogs-hero {
-    height: auto;
-    min-height: 100vh;
+    min-height: 50rvh;
   }
 
   .hero-text h1 {
